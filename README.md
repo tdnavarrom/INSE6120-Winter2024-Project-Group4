@@ -1,9 +1,8 @@
-# Oracle Padding Attacks
+# Oracle Padding Attack and its variants
 
 ## Introduction
 This repository contains attacks and documents related to oracle padding attack and it's variants.
-These attacks were done for the class INSE6120 at Concordia University in a safe environment.
-
+These attacks were deployed for the class INSE6120 at Concordia University in a safe environment.
 
 
 ## Authors
@@ -14,6 +13,6 @@ These attacks were done for the class INSE6120 at Concordia University in a safe
 * Bergen Davis
 * Diego Jaramillo
 * Md Ashfaque Rahman
-* Rogelio Pumajulca
+* Alcibiades Rogelio Pumajulca
 * Shrutibahen Rana
 * Juan Soto Chourio
